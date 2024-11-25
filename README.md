@@ -1,13 +1,5 @@
 # Module 19 Challenge
 
-## Before You Begin
-1. Create a new repository for this project called CryptoClustering. Do not add this homework to an existing repository.
-2. Clone the new repository to your computer.
-3. Push your changes to GitHub.
-
-Download the following files to help you get started: Module 19 Challenge files
-
-
 ## Instructions
 1. Rename the **Crypto_Clustering_starter_code.ipynb** file as **Crypto_Clustering.ipynb**.
 
